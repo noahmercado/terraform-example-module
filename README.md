@@ -1,3 +1,5 @@
+# Example Module
+
 ## Providers
 
 The following providers are used by this module:
