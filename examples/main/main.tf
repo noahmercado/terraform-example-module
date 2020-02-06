@@ -1,4 +1,4 @@
 module "example" {
-  source = "/Users/noah.mercado/Code/Terraform/example"
+  source = "github.com/noahmercado/terraform-example-module?ref=master"
   
 }
