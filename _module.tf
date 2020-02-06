@@ -11,7 +11,7 @@ locals {
   /*
         Determine the module name by parsing the directory name
   */
-  moduleName = "Module-Name"
+  moduleName = "Terraform-Example-Module"
 
   moduleSources = {
     /*
